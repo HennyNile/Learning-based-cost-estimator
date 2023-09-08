@@ -134,4 +134,6 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
-*.ipynb
+# data files
+tlstm_files/
+files.tar.gz
